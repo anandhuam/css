@@ -1,0 +1,87 @@
+
+.container-fluid{
+    background-color:rgb(238, 238, 244);
+    position: fixed;
+    padding: 5px;
+    
+    
+}
+.s1{
+    border-radius: 50%;
+    width: 60px;
+}
+
+.s2{
+    color: black;
+    
+}
+.f1{
+    border: 1px solid gray;
+    padding: 20px;
+}
+.f3{
+    margin-top: 30px;
+}
+.f6 a{
+    color: black;
+   
+}
+.f7{
+    border-bottom: 2px solid gray;
+    padding: 25px;
+    
+}
+.f8{
+    width: 550px;
+}
+.f9{
+    width: 650px;
+}
+.f10{
+    width: 250px;
+}
+.f11{
+    border-bottom: 2px solid gray;
+    padding: 7px;
+}
+/* .f12{
+    width: 50px;
+} */
+img.f13{
+    border-radius: 50%;
+    width: 50px;
+ 
+}
+.f14{
+    background-color: black;
+}
+.f15{
+    color: white;
+}
+.f16{
+    width: 60px;
+}
+.f17{
+    width: 60px;
+    
+}
+.date a{
+    color: white;
+    text-decoration: none;
+}
+
+a.learn{
+    color: white;
+}
+.f20{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 20px;
+   padding-left: 400px;
+}
+.f21{
+    width: 30px;
+}
+.f22{
+    margin-left: 700px;
+}
