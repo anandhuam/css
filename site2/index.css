@@ -1,0 +1,50 @@
+.a1{
+ background-color: rgb(248, 111, 19);
+    padding: 5px;
+   border-bottom-right-radius: 35px;
+}
+.b1{
+    border-top-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+}
+.c1{
+  border-radius: 35px;
+ 
+}
+.div1{
+    font-family: 'Kaushan Script', cursive;
+    color: orangered;
+    font-size: xx-large;
+    font-weight: 600;
+}
+.div2{
+    font-size:50px;
+    font-weight: 600;
+
+}
+.div3{
+    color:darkgray;
+}
+.div4{
+    color:darkgray;
+}
+.div5{
+    border: none;
+    background-color: rgb(0, 179, 255);
+    border-radius: 40px;
+    margin-right: 550px;
+  padding-left: 10px;
+  font-size: 20px;
+  color: aliceblue;
+  font-weight: 700;
+
+
+    
+}
+.div5:hover{
+    color: orange
+}
+.d1{
+height: 600px;
+}
+
