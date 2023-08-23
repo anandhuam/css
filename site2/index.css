@@ -47,4 +47,34 @@
 .d1{
 height: 600px;
 }
+.e1{
+    background-image:url("/site2/img/picc3.jpg");
+   background-repeat: no-repeat;
+   height: 1000px;
+   background-size: 2500px;
+   width: 6000px;
+   border-top-left-radius:  35px;
+
+}
+.d2{
+    color: orangered;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 60px;
+    padding-left: 350px;
+  
+}
+.d3{
+    color: orangered;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 60px;
+    padding-left: 350px;
+   
+}
+.e5{
+    padding-left: 350px;
+    color: aliceblue;
+
+
+}
+
 
