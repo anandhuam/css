@@ -6,7 +6,19 @@
 .b1{
     border-top-left-radius: 35px;
     border-bottom-right-radius: 35px;
+    background-color: blue;
 }
+.hi{
+    font-weight: 600;
+}
+.hi1{
+    font-family: 'Kaushan Script', cursive;
+    
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+
 .c1{
   border-radius: 35px;
  
@@ -54,6 +66,7 @@ height: 600px;
    background-size: 2500px;
    width: 6000px;
    border-top-left-radius:  35px;
+   
 
 }
 .d2{
@@ -76,5 +89,60 @@ height: 600px;
 
 
 }
+.f6{
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+
+    }
+.f7 a{
+        color: black;
+    }
+.f8 img{
+    width: 100%;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    }
+.dd{
+        border-bottom: solid rgb(48, 48, 48);
+    }
+.f9{
+    background-color:rgb(39, 39, 39);
+    color: rgba(172, 172, 172, 0.968);
+    }
+.f99{
+    font-size: 40px;
+    font-family: 'Kaushan Script', cursive;
+}
+.f10{
+    background-color:rgb(39, 39, 39);
+    border-top: solid rgb(48, 48, 48);
+    color: rgb(172, 172, 172);
+    text-align: center;
+}
+.h{
+    color: white;
+}
+.g:hover{
+    color:rgb(255, 119, 0)
+}
+.jj{
+    background-color:rgb(39, 39, 39);
+    color: rgb(172, 172, 172);
+}
+.align form{
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(20, 11, 1);
+    background-color: rgba(240, 248, 255, 0.598);
+    border-radius: 15px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+
+
+
 
 
