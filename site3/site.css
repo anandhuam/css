@@ -1,0 +1,22 @@
+.a1{
+ height: 35px;
+    background-color: rgb(0, 183, 255);
+}
+.img{
+  
+    width: 100%;
+  padding: 20%;
+}
+.logo{
+    height: 36%;
+    padding-left: 70px;
+
+}
+.b1{
+    text-align: center;
+    color:black
+}
+.a2{
+    text-align: center;
+    color: aliceblue;
+}
