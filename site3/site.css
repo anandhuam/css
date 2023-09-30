@@ -1,22 +1,33 @@
 .a1{
- height: 35px;
+
     background-color: rgb(0, 183, 255);
 }
-.img{
-  
-    width: 100%;
-  padding: 20%;
-}
-.logo{
-    height: 36%;
-    padding-left: 70px;
+
+
+.b1{
+    margin-right:  500px;
 
 }
-.b1{
-    text-align: center;
-    color:black
+.img{
+    background-image: url(/site3/img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
 }
-.a2{
+.c1{
+    color: black;
+    font-size: 50px;
     text-align: center;
+    font-family: ;
+}
+.four{
     color: aliceblue;
+    font-size: 55px;
+    font-family:serif ;
+    text-align: center;
+    margin-top: 270px;
 }
+
+
+
+
