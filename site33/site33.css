@@ -1,6 +1,6 @@
 .nbar{
 
-    background-color: rgb(0, 183, 255);
+    background-color: #1f88ca;
 }
 
 
@@ -12,10 +12,27 @@
 
 a.one{
 
-    color: black;
-    font-size: 16px;
+    color:rgb(94, 94, 94);
+    font-size: 14px;
+    
    
 }
+a.one:hover{
+    
+    background-color: rgb(9, 135, 219);
+   color: aliceblue;
+    border-radius: 20px;
+ 
+
+}
+a.buton{
+    background-color: rgb(89, 169, 223);
+    color:aliceblue;
+    border-radius: 20px;
+    
+}
+
+
 .navbar{
     margin-left: 400px;
 }
@@ -24,11 +41,12 @@ a.one{
     background-size:cover;
     background-repeat: no-repeat;
     height: 600px;
+    --headingColor: #1b1b1b;
 }
 .bg1{
     color: aliceblue;
     font-size: 68px;
-    font-family:font-family: 'Dancing Script', cursive;
+    font-family:font-family 'Dancing Script', cursive;
     font-family: 'Great Vibes', cursive;
     text-align: center;
     margin-top: 270px;
@@ -65,3 +83,10 @@ a.one{
 .b2{
     background-color: rgb(187, 214, 238);
 }
+.write{
+    font-size:40px ;
+    color: black;
+}
+
+
+
